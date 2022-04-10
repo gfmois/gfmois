@@ -22,7 +22,7 @@
   <br>
   
   <h3 align="center">My Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=gfmois&theme=dark&show_icons=true" />
+  <a href="https://github.com/gfmois?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=gfmois&theme=dark&show_icons=true" /></a>
 </div>
 
 
