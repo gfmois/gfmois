@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <br>
   
-  <h3 align="center">My Skills</h3>
+  <h3 align="center">My Stats</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=gfmois&theme=dark&show_icons=true" />
 </div>
 
