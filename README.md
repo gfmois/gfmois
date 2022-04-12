@@ -20,6 +20,7 @@
   
   <h3 align="center">Databases</h3>
   <a target="_blank" href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /></a>
+  <a target="_blank" href="https://mariadb.org/documentation/"><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" /></a>
   <br>
   
   <h3 align="center">IDEs</h3>
