@@ -32,4 +32,7 @@
   
   <h3 align="center">My Stats</h3>
   <a target="_blank" href="https://github.com/gfmois?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=gfmois&theme=dark&show_icons=true" /></a>
+  <br>
+  
+  <a target="_blank" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gfmois&theme=onedark" /></a>
 </div>
