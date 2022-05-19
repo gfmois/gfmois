@@ -1,6 +1,10 @@
 <div align="center" width="300">
   <h3 align="center"> Welcome to my Github 😄 </h3>
   <br>
+  <h3 align="center">I am learning...</h3>
+  <a target="_blank" href="https://angularjs.org/"><img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" /></a>
+  <a target="_blank" href="https://docs.docker.com/get-docker/"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /></a>
+  <br>
   
   <h3 align="center">What I have Learned 👨‍🎓</h3>
   <a target="_blank" href="https://html.com/"><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /></a>
