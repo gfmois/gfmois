@@ -4,6 +4,7 @@
   <h3 align="center">I am learning...</h3>
   <a target="_blank" href="https://angularjs.org/"><img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" /></a>
   <a target="_blank" href="https://docs.docker.com/get-docker/"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /></a>
+  <a target="_blank" href="https://www.mongodb.com/docs/"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
   <br>
   
   <h3 align="center">What I have Learned 👨‍🎓</h3>
