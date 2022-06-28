@@ -2,6 +2,7 @@
   <h3 align="center"> Welcome to my Github 😄 </h3>
   <br>
   <h3 align="center">I am learning...</h3>
+  <a target="_blank" href="https://angular.io/docs"><img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" /></a>
   <br>
   
   <h3 align="center">What I have Learned 👨‍🎓</h3>
