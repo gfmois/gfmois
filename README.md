@@ -1,8 +1,8 @@
 <div align="center" width="300">
   <h3 align="center"> Welcome to my Github 😄 </h3>
-  <br>
-  <h3 align="center">I am learning...</h3>
-  <a target="_blank" href="https://angular.io/docs"><img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" /></a>
+<!--   <br> -->
+<!--   <h3 align="center">I am learning...</h3> -->
+  
   <br>
   
   <h3 align="center">What I have Learned 👨‍🎓</h3>
@@ -19,7 +19,7 @@
   <a target="_blank" href="https://getbootstrap.com/docs/5.1/getting-started/introduction/"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /></a>
   <a target="_blank" href="https://flutter.dev/?gclid=Cj0KCQjwgMqSBhDCARIsAIIVN1VBpoBuYvapY_khxHpkwhjrtpQZe6YK-XkCU4ZXBADEz9-GwLY1MfsaAtSyEALw_wcB&gclsrc=aw.ds"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /></a>
   <a target="_blank" href="https://jwt.io/"><img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" /></a>
-  <a target="_blank" href="https://angularjs.org/"><img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" /></a>
+  <a target="_blank" href="https://angular.io/docs"><img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" /></a>
   <br>
   
   <h3 align="center">Databases</h3>
