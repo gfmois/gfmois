@@ -1,7 +1,10 @@
 <div align="center" width="300">
   <h3 align="center"> Welcome to my Github 😄 </h3>
-<!--   <br> -->
-<!--   <h3 align="center">I am learning...</h3> -->
+  <br>
+  <h3 align="center">I am learning...</h3>
+  <a target="_blank" href="https://laravel.com/docs/9.x#meet-laravel"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /></a>
+    <a target="_blank" href="https://vuejs.org/guide/introduction.html#what-is-vue"><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" /></a>
+    <a target="_blank" href="https://spring.io/projects/spring-boot#overview"><img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" /></a>
   
   <br>
   
