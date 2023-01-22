@@ -1,0 +1,20 @@
+name: Metrics for gfmois
+on:
+  push:
+    branches: main
+    
+jobs:
+  metrics_job:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Metrics Action
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.activity.svg
+          token: ${{ secrets.TOKEN }}
+          base: ""
+          plugin_activity: yes
+          plugin_activity_days: 0
+          plugin_activity_filter: issue, pr, release, fork, review, ref/create
