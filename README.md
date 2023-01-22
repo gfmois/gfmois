@@ -62,4 +62,11 @@
   <br> -->
   
   <a target="_blank" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gfmois&theme=onedark" /></a>
+  
+  
+  <br>
+  <br>
+  <br>
+  
+  <img src="/metrics.plugin.activity.svg" />
 </div>
