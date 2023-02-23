@@ -1,9 +1,8 @@
 <div align="center" width="300">
   <h3 align="center"> Welcome to my Github 😄 </h3>
   <br>
-  <h3 align="center">I am learning...</h3>
-  <a target="_blank" href="https://es.reactjs.org/tutorial/tutorial.html"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
-  <a target="_blank" href="https://docs.djangoproject.com/en/4.1/intro/tutorial01/"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" /></a>
+<!--   <h3 align="center">I am learning...</h3> -->
+
   <br>
   
   <h3 align="center">What I have Learned 👨‍🎓</h3>
@@ -30,6 +29,8 @@
     <a target="_blank" href="https://spring.io/projects/spring-boot#overview"><img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" /></a>
   <br>
   <a target="_blank" href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /></a>
+    <a target="_blank" href="https://es.reactjs.org/tutorial/tutorial.html"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
+  <a target="_blank" href="https://docs.djangoproject.com/en/4.1/intro/tutorial01/"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" /></a>
   <br>
   
   <h3 align="center">Design ✨</h3>
