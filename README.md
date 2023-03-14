@@ -1,7 +1,9 @@
 <div align="center" width="300">
   <h3 align="center"> Welcome to my Github 😄 </h3>
   <br>
-<!--   <h3 align="center">I am learning...</h3> -->
+  <h3 align="center">I am learning...</h3>
+  <a target="_blank" href="https://nuxt.com/docs/getting-started/introduction"><img src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82" /></a>
+  <a target="_blank" href="https://www.salesforce.com/es/?ir=1"><img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" /></a>
 
   <br>
   
