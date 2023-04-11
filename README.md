@@ -71,5 +71,5 @@
   <br>
   <br>
   
-  <img src="/metrics.plugin.activity.svg" />
+<!--   <img src="/metrics.plugin.activity.svg" /> -->
 </div>
