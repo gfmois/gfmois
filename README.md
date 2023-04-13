@@ -18,6 +18,7 @@
   <br>
   <a target="_blank" href="https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /></a>
   <a target="_blank" href="https://go.dev/doc/tutorial/getting-started"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /></a>
+  <a target="_blank" href="https://devguide.python.org/getting-started/setup-building/"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /></a>
   <br>
   
   <h3 align="center">Frameworks - Platforms - Libraries 🚀</h3>
