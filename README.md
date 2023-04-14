@@ -48,8 +48,13 @@
   <a target="_blank" href="https://www.mongodb.com/docs/"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
   <br>
   
-  <h3 align="center">Deploy</h3>
+  <h3 align="center">Deploy 🔧</h3>
   <a target="_blank" href="https://docs.docker.com/get-docker/"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /></a>
+  <br>
+  
+  <h3 align="center">CI/CD ⏱</h3>
+  <a target="_blank" href="https://www.jenkins.io/doc/"><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" /></a>
+  <a target="_blank" href="https://docs.github.com/es/actions/quickstart"><img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" /></a>
   <br>
   
   <h3 align="center">IDEs</h3>
