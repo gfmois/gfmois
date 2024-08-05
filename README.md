@@ -29,20 +29,20 @@
   <a target="_blank" href="https://docs.djangoproject.com/en/4.1/intro/tutorial01/"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" /></a>
   <br>
   <a target="_blank" href="https://nuxt.com/docs/getting-started/introduction"><img src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82" /></a>
-  <a target="_blank" href="https://nuxt.com/docs/getting-started/introduction"><img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" /></a>
+  <a target="_blank" href="https://flask.palletsprojects.com/en/3.0.x/"><img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" /></a>
   <br>
 
   <h3 align="center">AI & BigData🤖</h3>
-  <a target="_blank" href="https://jquery.com/"><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" /></a>
-  <a target="_blank" href="https://flutter.dev/?gclid=Cj0KCQjwgMqSBhDCARIsAIIVN1VBpoBuYvapY_khxHpkwhjrtpQZe6YK-XkCU4ZXBADEz9-GwLY1MfsaAtSyEALw_wcB&gclsrc=aw.ds"><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" /></a>
-  <a target="_blank" href="https://angular.io/docs"><img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" /></a>
+  <a target="_blank" href="https://www.tensorflow.org/?hl=es-419"><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" /></a>
+  <a target="_blank" href="https://scikit-learn.org/stable/getting_started.html"><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" /></a>
+  <a target="_blank" href="https://pandas.pydata.org/docs/index.html"><img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" /></a>
   <br>
-  <a target="_blank" href="https://laravel.com/docs/9.x#meet-laravel"><img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" /></a>
-    <a target="_blank" href="https://vuejs.org/guide/introduction.html#what-is-vue"><img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" /></a>
-    <a target="_blank" href="https://spring.io/projects/spring-boot#overview"><img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" /></a>
+  <a target="_blank" href="https://numpy.org/"><img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" /></a>
+    <a target="_blank" href="https://matplotlib.org/"><img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" /></a>
+    <a target="_blank" href="https://keras.io/"><img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" /></a>
   <br>
-  <a target="_blank" href="https://spring.io/projects/spring-boot#overview"><img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /></a>
-  <a target="_blank" href="https://spring.io/projects/spring-boot#overview"><img src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16" /></a>
+  <a target="_blank" href="https://www.microsoft.com/es-es/power-platform/products/power-bi"><img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /></a>
+  <a target="_blank" href="https://spark.apache.org/"><img src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16" /></a>
   <br>
   <br>
   
@@ -63,7 +63,7 @@
   <br>
 
   <h3 align="center">Cloud ☁</h3>
-  <a target="_blank" href="https://docs.docker.com/get-docker/"><img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /></a>
+  <a target="_blank" href="https://docs.aws.amazon.com/?nc2=h_ql_doc_do"><img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /></a>
   <br>
   
   <h3 align="center">CI/CD ⏱</h3>
