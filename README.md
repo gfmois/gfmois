@@ -11,24 +11,23 @@
   <a target="_blank" href="https://www.w3.org/Style/CSS/Overview.en.html"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
   <a target="_blank" href="https://www.javascript.com/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
   <br>
-  <a target="_blank" href="https://www.java.com/es/download/help/whatis_java.html"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /></a>
-  <a target="_blank" href="https://www.php.net/docs.php"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /></a>
-  <a target="_blank" href="https://dart.dev/guides"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /></a>
-  <br>
   <a target="_blank" href="https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /></a>
   <a target="_blank" href="https://go.dev/doc/tutorial/getting-started"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /></a>
   <a target="_blank" href="https://devguide.python.org/getting-started/setup-building/"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /></a>
   <br>
+  <a target="_blank" href="https://www.java.com/es/download/help/whatis_java.html"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /></a>
+  <a target="_blank" href="https://www.php.net/docs.php"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /></a>
+  <a target="_blank" href="https://dart.dev/guides"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /></a>
+  <br>
   
   <h3 align="center">Frameworks, Platforms & Libraries Web 🚀</h3>
-  <a target="_blank" href="https://jquery.com/"><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" /></a>
-  <a target="_blank" href="https://flutter.dev/?gclid=Cj0KCQjwgMqSBhDCARIsAIIVN1VBpoBuYvapY_khxHpkwhjrtpQZe6YK-XkCU4ZXBADEz9-GwLY1MfsaAtSyEALw_wcB&gclsrc=aw.ds"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /></a>
-<!--   <a target="_blank" href="https://jwt.io/"><img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" /></a> -->
-  <a target="_blank" href="https://angular.io/docs"><img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" /></a>
-  <br>
   <a target="_blank" href="https://laravel.com/docs/9.x#meet-laravel"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /></a>
-    <a target="_blank" href="https://vuejs.org/guide/introduction.html#what-is-vue"><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" /></a>
-    <a target="_blank" href="https://spring.io/projects/spring-boot#overview"><img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" /></a>
+  <a target="_blank" href="https://vuejs.org/guide/introduction.html#what-is-vue"><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" /></a>
+  <a target="_blank" href="https://spring.io/projects/spring-boot#overview"><img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" /></a>
+  <br>
+  <a target="_blank" href="https://jquery.com/"><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" /></a>
+  <a target="_blank" href="https://flutter.dev/?gclid=Cj0KCQjwgMqSBhDCARIsAIIVN1VBpoBuYvapY_khxHpkwhjrtpQZe6YK-XkCU4ZXBADEz9-GwLY1MfsaAtSyEALw_wcB&gclsrc=aw.ds"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /</a>
+  <a target="_blank" href="https://angular.io/docs"><img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" /></a>
   <br>
   <a target="_blank" href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /></a>
     <a target="_blank" href="https://es.reactjs.org/tutorial/tutorial.html"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
