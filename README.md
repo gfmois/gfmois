@@ -1,12 +1,7 @@
 <div align="center" width="300">
   <h3 align="center"> Welcome to my Github 😄 </h3>
   <br>
-<!--   <h3 align="center">I am learning...</h3> -->
-<!--   <a target="_blank" href="https://www.salesforce.com/es/?ir=1"><img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" /></a> -->
-
-  <br>
-  
-  <h3 align="center">What I have Learned 👨‍🎓</h3>
+  <h3 align="center">Collection of things I have learned 👨‍🎓</h3>
   <a target="_blank" href="https://html.com/"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
   <a target="_blank" href="https://www.w3.org/Style/CSS/Overview.en.html"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
   <a target="_blank" href="https://www.javascript.com/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
