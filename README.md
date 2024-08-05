@@ -77,16 +77,16 @@
   <a target="_blank" href="https://docs.github.com/es/actions/quickstart"><img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" /></a>
   <br>
   
-  <h3 align="center">IDEs</h3>
+  <!-- <h3 align="center">IDEs</h3>
   <a target="_blank" href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /></a>
   <a target="_blank" href="https://www.sublimetext.com/"><img src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important" /></a>
   <a target="_blank" href="https://www.eclipse.org/downloads/"><img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" /></a>
-<!--   <a target="_blank" href="https://atom.io/"><img src="https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=green" /></a> -->
+  <a target="_blank" href="https://atom.io/"><img src="https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=green" /></a>
   <br>
-  <a target="_blank" href="https://www.jetbrains.com/es-es/idea/"><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" /></a>
+  <a target="_blank" href="https://www.jetbrains.com/es-es/idea/"><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" /></a> -->
   <br>
   
-  <h3 align="center">My Stats</h3>
+  <!-- <h3 align="center">My Stats</h3> -->
 <!--   <a target="_blank" href="https://github.com/gfmois?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=gfmois&theme=dark&show_icons=true" /></a>
   <br> -->
   
