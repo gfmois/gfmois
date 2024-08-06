@@ -32,7 +32,7 @@
   <a target="_blank" href="https://flask.palletsprojects.com/en/3.0.x/"><img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" /></a>
   <br>
 
-  <h3 align="center">AI & BigData🤖</h3>
+  <h3 align="center">AI & BigData 🤖</h3>
   <a target="_blank" href="https://www.tensorflow.org/?hl=es-419"><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" /></a>
   <a target="_blank" href="https://scikit-learn.org/stable/getting_started.html"><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" /></a>
   <a target="_blank" href="https://pandas.pydata.org/docs/index.html"><img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" /></a>
