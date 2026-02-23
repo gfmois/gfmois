@@ -3,11 +3,6 @@
 I build things. 
 Some of them may explode — production keeps me humble.
 
-Mostly in Java with Spring Boot.  
-Vue for the pixels.  
-Docker so everything behaves.  
-Ideas at 2am.
-
 ---
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
